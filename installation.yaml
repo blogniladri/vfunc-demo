@@ -1,0 +1,7 @@
+aws:
+  region: "us-east-1"
+  org_name: "workshop"
+  email: "mail@workshop.com"
+  number_of_instances: 1
+  distributed_mode: true
+  monolith_mode: false
