@@ -1,7 +1,7 @@
 aws:
-  region:"us-east-1"
-  org_name:"mycompany"
-  email:"myname@company.net"
-  number_of_instances:1
-  distributed_mode:true
-  monolith_mode:false
+  region: "us-east-1"
+  org_name: "mycompany"
+  email: "myname@company.net"
+  number_of_instances: 1
+  distributed_mode: true
+  monolith_mode: false
